@@ -1,0 +1,6 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\01. Interfaces and Abstraction - Lab\Cars\bin\Debug\Cars.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\01. Interfaces and Abstraction - Lab\Cars\bin\Debug\Cars.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\01. Interfaces and Abstraction - Lab\Cars\bin\Debug\Cars.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\01. Interfaces and Abstraction - Lab\Cars\obj\Debug\Cars.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\01. Interfaces and Abstraction - Lab\Cars\obj\Debug\Cars.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\01. Interfaces and Abstraction - Lab\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
