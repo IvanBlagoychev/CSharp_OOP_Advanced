@@ -1,0 +1,6 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Generics - Exercises\05. Generic Count Method String\bin\Debug\_05.Generic_Count_Method_String.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Generics - Exercises\05. Generic Count Method String\bin\Debug\_05.Generic_Count_Method_String.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Generics - Exercises\05. Generic Count Method String\bin\Debug\_05.Generic_Count_Method_String.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Generics - Exercises\05. Generic Count Method String\obj\Debug\05. Generic Count Method String.csprojResolveAssemblyReference.cache
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Generics - Exercises\05. Generic Count Method String\obj\Debug\_05.Generic_Count_Method_String.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Generics - Exercises\05. Generic Count Method String\obj\Debug\_05.Generic_Count_Method_String.pdb

@@ -1,0 +1,6 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Generics - Exercises\07. Custom List\obj\Debug\07. Custom List.csprojResolveAssemblyReference.cache
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Generics - Exercises\07. Custom List\bin\Debug\_07.Custom_List.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Generics - Exercises\07. Custom List\bin\Debug\_07.Custom_List.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Generics - Exercises\07. Custom List\bin\Debug\_07.Custom_List.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Generics - Exercises\07. Custom List\obj\Debug\_07.Custom_List.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Generics - Exercises\07. Custom List\obj\Debug\_07.Custom_List.pdb

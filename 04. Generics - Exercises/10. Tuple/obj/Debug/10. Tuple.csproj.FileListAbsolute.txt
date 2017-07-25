@@ -1,0 +1,5 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Generics - Exercises\10. Tuple\bin\Debug\_10.Tuple.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Generics - Exercises\10. Tuple\bin\Debug\_10.Tuple.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Generics - Exercises\10. Tuple\bin\Debug\_10.Tuple.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Generics - Exercises\10. Tuple\obj\Debug\_10.Tuple.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Generics - Exercises\10. Tuple\obj\Debug\_10.Tuple.pdb
