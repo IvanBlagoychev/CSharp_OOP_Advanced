@@ -1,0 +1,6 @@
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\03. Generics - Lab\03. Scale\bin\Debug\_03.Scale.exe.config
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\03. Generics - Lab\03. Scale\bin\Debug\_03.Scale.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\03. Generics - Lab\03. Scale\bin\Debug\_03.Scale.pdb
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\03. Generics - Lab\03. Scale\obj\Debug\03. Scale.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\03. Generics - Lab\03. Scale\obj\Debug\_03.Scale.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\03. Generics - Lab\03. Scale\obj\Debug\_03.Scale.pdb

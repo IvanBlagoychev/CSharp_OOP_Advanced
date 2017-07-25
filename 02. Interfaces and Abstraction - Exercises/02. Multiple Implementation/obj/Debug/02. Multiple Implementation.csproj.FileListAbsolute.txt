@@ -1,0 +1,5 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\02. Interfaces and Abstraction\02. Multiple Implementation\bin\Debug\_02.Multiple_Implementation.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\02. Interfaces and Abstraction\02. Multiple Implementation\bin\Debug\_02.Multiple_Implementation.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\02. Interfaces and Abstraction\02. Multiple Implementation\bin\Debug\_02.Multiple_Implementation.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\02. Interfaces and Abstraction\02. Multiple Implementation\obj\Debug\_02.Multiple_Implementation.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\02. Interfaces and Abstraction\02. Multiple Implementation\obj\Debug\_02.Multiple_Implementation.pdb

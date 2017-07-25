@@ -1,0 +1,6 @@
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\02. Interfaces and Abstraction\07. Food Shortage\bin\Debug\_07.Food_Shortage.exe.config
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\02. Interfaces and Abstraction\07. Food Shortage\bin\Debug\_07.Food_Shortage.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\02. Interfaces and Abstraction\07. Food Shortage\bin\Debug\_07.Food_Shortage.pdb
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\02. Interfaces and Abstraction\07. Food Shortage\obj\Debug\07. Food Shortage.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\02. Interfaces and Abstraction\07. Food Shortage\obj\Debug\_07.Food_Shortage.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\02. Interfaces and Abstraction\07. Food Shortage\obj\Debug\_07.Food_Shortage.pdb
