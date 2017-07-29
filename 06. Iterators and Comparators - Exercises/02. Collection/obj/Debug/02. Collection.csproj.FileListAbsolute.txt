@@ -1,0 +1,6 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\06. Iterators and Comparators\02. Collection\obj\Debug\02. Collection.csprojResolveAssemblyReference.cache
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\06. Iterators and Comparators\02. Collection\bin\Debug\_02.Collection.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\06. Iterators and Comparators\02. Collection\bin\Debug\_02.Collection.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\06. Iterators and Comparators\02. Collection\bin\Debug\_02.Collection.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\06. Iterators and Comparators\02. Collection\obj\Debug\_02.Collection.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\06. Iterators and Comparators\02. Collection\obj\Debug\_02.Collection.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\06. Iterators and Comparators\06. Strategy Pattern\bin\Debug\_06.Strategy_Pattern.exe.config
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\06. Iterators and Comparators\06. Strategy Pattern\bin\Debug\_06.Strategy_Pattern.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\06. Iterators and Comparators\06. Strategy Pattern\bin\Debug\_06.Strategy_Pattern.pdb
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\06. Iterators and Comparators\06. Strategy Pattern\obj\Debug\06. Strategy Pattern.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\06. Iterators and Comparators\06. Strategy Pattern\obj\Debug\_06.Strategy_Pattern.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\06. Iterators and Comparators\06. Strategy Pattern\obj\Debug\_06.Strategy_Pattern.pdb

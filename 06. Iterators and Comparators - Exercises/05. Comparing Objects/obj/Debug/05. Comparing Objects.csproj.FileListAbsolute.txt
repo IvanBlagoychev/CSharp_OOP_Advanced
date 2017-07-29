@@ -1,0 +1,6 @@
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\06. Iterators and Comparators\05. Comparing Objects\bin\Debug\_05.Comparing_Objects.exe.config
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\06. Iterators and Comparators\05. Comparing Objects\bin\Debug\_05.Comparing_Objects.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\06. Iterators and Comparators\05. Comparing Objects\bin\Debug\_05.Comparing_Objects.pdb
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\06. Iterators and Comparators\05. Comparing Objects\obj\Debug\05. Comparing Objects.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\06. Iterators and Comparators\05. Comparing Objects\obj\Debug\_05.Comparing_Objects.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\06. Iterators and Comparators\05. Comparing Objects\obj\Debug\_05.Comparing_Objects.pdb

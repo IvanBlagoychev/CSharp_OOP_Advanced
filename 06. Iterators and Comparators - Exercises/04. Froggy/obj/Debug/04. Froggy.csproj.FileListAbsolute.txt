@@ -1,0 +1,6 @@
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\06. Iterators and Comparators\04. Froggy\bin\Debug\_04.Froggy.exe.config
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\06. Iterators and Comparators\04. Froggy\bin\Debug\_04.Froggy.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\06. Iterators and Comparators\04. Froggy\bin\Debug\_04.Froggy.pdb
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\06. Iterators and Comparators\04. Froggy\obj\Debug\04. Froggy.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\06. Iterators and Comparators\04. Froggy\obj\Debug\_04.Froggy.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\06. Iterators and Comparators\04. Froggy\obj\Debug\_04.Froggy.pdb
