@@ -1,0 +1,5 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\07. Enumerations and Attributes - Lab\03. Attributes\bin\Debug\_03.Attributes.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\07. Enumerations and Attributes - Lab\03. Attributes\bin\Debug\_03.Attributes.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\07. Enumerations and Attributes - Lab\03. Attributes\bin\Debug\_03.Attributes.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\07. Enumerations and Attributes - Lab\03. Attributes\obj\Debug\_03.Attributes.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\07. Enumerations and Attributes - Lab\03. Attributes\obj\Debug\_03.Attributes.pdb

@@ -1,0 +1,6 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\07. Enumerations and Attributes - Lab\01. WeekDay\bin\Debug\_01.WeekDay.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\07. Enumerations and Attributes - Lab\01. WeekDay\bin\Debug\_01.WeekDay.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\07. Enumerations and Attributes - Lab\01. WeekDay\bin\Debug\_01.WeekDay.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\07. Enumerations and Attributes - Lab\01. WeekDay\obj\Debug\01. WeekDay.csprojResolveAssemblyReference.cache
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\07. Enumerations and Attributes - Lab\01. WeekDay\obj\Debug\_01.WeekDay.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\07. Enumerations and Attributes - Lab\01. WeekDay\obj\Debug\_01.WeekDay.pdb
