@@ -1,0 +1,5 @@
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\08. Enumerations and Attributes\02. Card Rank\bin\Debug\_02.Card_Rank.exe.config
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\08. Enumerations and Attributes\02. Card Rank\bin\Debug\_02.Card_Rank.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\08. Enumerations and Attributes\02. Card Rank\bin\Debug\_02.Card_Rank.pdb
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\08. Enumerations and Attributes\02. Card Rank\obj\Debug\_02.Card_Rank.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\08. Enumerations and Attributes\02. Card Rank\obj\Debug\_02.Card_Rank.pdb

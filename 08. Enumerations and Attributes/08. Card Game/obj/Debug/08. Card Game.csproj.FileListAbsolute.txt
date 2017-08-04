@@ -1,0 +1,6 @@
+C:\Users\Ivan Blagoychev\Documents\Visual Studio 2017\Projects\08. Enumerations and Attributes\08. Card Game\bin\Debug\_08.Card_Game.exe.config
+C:\Users\Ivan Blagoychev\Documents\Visual Studio 2017\Projects\08. Enumerations and Attributes\08. Card Game\bin\Debug\_08.Card_Game.exe
+C:\Users\Ivan Blagoychev\Documents\Visual Studio 2017\Projects\08. Enumerations and Attributes\08. Card Game\bin\Debug\_08.Card_Game.pdb
+C:\Users\Ivan Blagoychev\Documents\Visual Studio 2017\Projects\08. Enumerations and Attributes\08. Card Game\obj\Debug\08. Card Game.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Blagoychev\Documents\Visual Studio 2017\Projects\08. Enumerations and Attributes\08. Card Game\obj\Debug\_08.Card_Game.exe
+C:\Users\Ivan Blagoychev\Documents\Visual Studio 2017\Projects\08. Enumerations and Attributes\08. Card Game\obj\Debug\_08.Card_Game.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ivan Blagoychev\Documents\Visual Studio 2017\Projects\08. Enumerations and Attributes\07. Deck of Cards\bin\Debug\_07.Deck_of_Cards.exe.config
+C:\Users\Ivan Blagoychev\Documents\Visual Studio 2017\Projects\08. Enumerations and Attributes\07. Deck of Cards\bin\Debug\_07.Deck_of_Cards.exe
+C:\Users\Ivan Blagoychev\Documents\Visual Studio 2017\Projects\08. Enumerations and Attributes\07. Deck of Cards\bin\Debug\_07.Deck_of_Cards.pdb
+C:\Users\Ivan Blagoychev\Documents\Visual Studio 2017\Projects\08. Enumerations and Attributes\07. Deck of Cards\obj\Debug\07. Deck of Cards.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Blagoychev\Documents\Visual Studio 2017\Projects\08. Enumerations and Attributes\07. Deck of Cards\obj\Debug\_07.Deck_of_Cards.exe
+C:\Users\Ivan Blagoychev\Documents\Visual Studio 2017\Projects\08. Enumerations and Attributes\07. Deck of Cards\obj\Debug\_07.Deck_of_Cards.pdb

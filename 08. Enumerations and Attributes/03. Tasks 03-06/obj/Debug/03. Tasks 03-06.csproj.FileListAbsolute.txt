@@ -1,0 +1,6 @@
+C:\Users\Ivan Blagoychev\Documents\Visual Studio 2017\Projects\08. Enumerations and Attributes\06. Custom Enum Attribute\obj\Debug\03. Tasks 03-06.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Blagoychev\Documents\Visual Studio 2017\Projects\08. Enumerations and Attributes\06. Custom Enum Attribute\bin\Debug\_06.Custom_Enum_Attribute.exe.config
+C:\Users\Ivan Blagoychev\Documents\Visual Studio 2017\Projects\08. Enumerations and Attributes\06. Custom Enum Attribute\bin\Debug\_06.Custom_Enum_Attribute.exe
+C:\Users\Ivan Blagoychev\Documents\Visual Studio 2017\Projects\08. Enumerations and Attributes\06. Custom Enum Attribute\bin\Debug\_06.Custom_Enum_Attribute.pdb
+C:\Users\Ivan Blagoychev\Documents\Visual Studio 2017\Projects\08. Enumerations and Attributes\06. Custom Enum Attribute\obj\Debug\_06.Custom_Enum_Attribute.exe
+C:\Users\Ivan Blagoychev\Documents\Visual Studio 2017\Projects\08. Enumerations and Attributes\06. Custom Enum Attribute\obj\Debug\_06.Custom_Enum_Attribute.pdb

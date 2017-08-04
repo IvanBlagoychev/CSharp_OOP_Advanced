@@ -1,0 +1,6 @@
+C:\Users\Ivan Blagoychev\Documents\Visual Studio 2017\Projects\08. Enumerations and Attributes\09. Traffic Lights\bin\Debug\_09.Traffic_Lights.exe.config
+C:\Users\Ivan Blagoychev\Documents\Visual Studio 2017\Projects\08. Enumerations and Attributes\09. Traffic Lights\bin\Debug\_09.Traffic_Lights.exe
+C:\Users\Ivan Blagoychev\Documents\Visual Studio 2017\Projects\08. Enumerations and Attributes\09. Traffic Lights\bin\Debug\_09.Traffic_Lights.pdb
+C:\Users\Ivan Blagoychev\Documents\Visual Studio 2017\Projects\08. Enumerations and Attributes\09. Traffic Lights\obj\Debug\_09.Traffic_Lights.exe
+C:\Users\Ivan Blagoychev\Documents\Visual Studio 2017\Projects\08. Enumerations and Attributes\09. Traffic Lights\obj\Debug\_09.Traffic_Lights.pdb
+C:\Users\Ivan Blagoychev\Documents\Visual Studio 2017\Projects\08. Enumerations and Attributes\09. Traffic Lights\obj\Debug\09. Traffic Lights.csprojResolveAssemblyReference.cache
